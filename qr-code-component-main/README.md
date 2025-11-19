@@ -12,14 +12,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Links
 
-- GitHub URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- GitHub URL: [GitHub Repository Link]([https://your-solution-url.com](https://github.com/bclindsey/FrontEnd-Mentor-QR-Code-Component)
+- Live Site URL: [Site Link]([https://your-live-site-url.com](https://qrcodecomponentpractice.netlify.app))
 
 ## My process
 
